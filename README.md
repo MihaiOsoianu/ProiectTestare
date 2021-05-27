@@ -23,3 +23,7 @@ Intru pe pagina si deschid din menu modalul corespunzator pentru login. complete
 logati.
 ## 9)Should register successfully
 Intru pe pagina si deschid din menu modalul corespunzator pentru register. Credentialele sunt generate random (string cu lungime de 12). Fac assert la mesajul primit.
+# Membrii echipei:
+Carazanu Valentina
+Osoianu Mihai
+Sauciuc Mădălina-Cornelia
